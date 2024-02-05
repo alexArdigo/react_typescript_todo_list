@@ -1,6 +1,5 @@
 import React, { useRef } from "react";
 import "./styles.css";
-import { hasFormSubmit } from "@testing-library/user-event/dist/utils";
 
 type Props = {
   todo: string;
